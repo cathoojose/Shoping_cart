@@ -11,7 +11,7 @@ let shopItemsData = [
     name: "Elegant Ring",
     price: 100,
     desc: "Delicate and modern, perfect for everyday elegance.",
-    img: "image/Ring3.png",
+    img: "image/ring3.png",
   },
   {
     id: "hjgff",
